@@ -4,6 +4,10 @@ import time
 import os
 import argparse
 
+# Set working directory to the script's directory
+script_dir = os.path.dirname(os.path.abspath(__file__))
+os.chdir(script_dir)
+
 def run_step(script_name, description, env=None):
     print(f"==================================================")
     print(f"[{time.strftime('%H:%M:%S')}] Starting: {description}")
