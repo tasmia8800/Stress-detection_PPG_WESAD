@@ -31,9 +31,5 @@ To run the stress classification pipeline:
 python Codes/run_pipeline.py
 ```
 
-## Citation
-If you use this code in your research, please cite the following paper:
-*"Enhancing Wearable Stress Detection via Multi-Modal Fusion and LOSO Validation" (Published in Physiological Measurement)*
-
 ## License
 This project is for academic and research purposes.
