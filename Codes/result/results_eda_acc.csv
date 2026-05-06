@@ -1,0 +1,22 @@
+Task,Noise,Classifier,Accuracy,F1_Score
+Binary Classification,bp_time_ens,DT,0.8878194714392389,0.8307098267339861
+Binary Classification,bp_time_ens,RF,0.9740778955821328,0.9495644599303135
+Binary Classification,bp_time_ens,AB,0.956294797877126,0.9323694926998424
+Binary Classification,bp_time_ens,KN,0.974580278057233,0.951113713212614
+Binary Classification,bp_time_ens,LDA,0.9628119504963768,0.9418385152763034
+Binary Classification,bp_time_ens,SVM,0.9629930501344436,0.9329201513341299
+Binary Classification,bp_time_ens,GB,0.9153940577896886,0.8866002819702831
+Tri-class Classification,bp_time_ens,DT,0.7356276248376018,0.6694867963782394
+Tri-class Classification,bp_time_ens,RF,0.8450494575220298,0.7150185880391943
+Tri-class Classification,bp_time_ens,AB,0.736427098531725,0.5496619958443404
+Tri-class Classification,bp_time_ens,KN,0.8550859435079275,0.7438408725147314
+Tri-class Classification,bp_time_ens,LDA,0.8182712050925464,0.7140863011673063
+Tri-class Classification,bp_time_ens,SVM,0.8558127731828032,0.748458504904974
+Tri-class Classification,bp_time_ens,GB,0.8018332465274871,0.7206537786449603
+Quad-class Classification,bp_time_ens,DT,0.6170608073285312,0.5465626903299925
+Quad-class Classification,bp_time_ens,RF,0.7568402514326564,0.6074587616303512
+Quad-class Classification,bp_time_ens,AB,0.5736750095983684,0.4053927812367789
+Quad-class Classification,bp_time_ens,KN,0.7565527561178603,0.6436255141663396
+Quad-class Classification,bp_time_ens,LDA,0.7514885793955401,0.6677703746892405
+Quad-class Classification,bp_time_ens,SVM,0.7840407400406415,0.6673573474488731
+Quad-class Classification,bp_time_ens,GB,0.7534621892785106,0.6417930461397454

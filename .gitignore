@@ -1,0 +1,12 @@
+WESAD/
+MoStressMinimal/.venv
+MoStressMinimal/data/*
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+**/*.so
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
