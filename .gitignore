@@ -9,4 +9,8 @@ MoStressMinimal/data/*
 .vscode/
 .idea/
 *.swp
-*.swo
+**/result/
+**/result_3/
+**/result_4/
+**/27_features_ppg_test*/
+
